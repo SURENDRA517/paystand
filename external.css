@@ -1,0 +1,8 @@
+.ps-checkout-content {
+  width: 99vw !important;
+}
+
+
+input[name=payer_email] {
+    pointer-events: none;
+ }
